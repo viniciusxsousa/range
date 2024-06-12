@@ -18,3 +18,7 @@ Este projeto tem como objetivo explorar e aplicar conceitos fundamentais de HTML
 Para o deploy foi usado o serviço de hospedagem da hostgator.
 
 ### :desktop_computer: Previa
+
+
+https://github.com/viniciusxsousa/range/assets/81489425/08485a70-129f-4ed3-b5e6-48066db094e6
+
